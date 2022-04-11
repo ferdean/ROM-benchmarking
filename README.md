@@ -18,3 +18,8 @@ Here I summarize all the order reduction methods trained during the research pro
 [1] H. Eivazi (et al). Towards extraction of orthogonal and parsimonious non-linear modes from turbulent flows (2021)
 
 [2] S. Dawson (et al). Reference for the input data.
+
+-- 
+
+## Notes
+
