@@ -25,4 +25,5 @@ The dataset is obtained from a DNS simulation of 2D viscous flow past two coline
 
 **Example of arquitecture: HVAE**
 
+![HVAE_NN](https://user-images.githubusercontent.com/92535468/162764243-58352464-6104-48e5-bd05-14600494505f.jpg)
 
